@@ -1,7 +1,7 @@
 📈 Market Mix Modeling (MMM) — End-to-End Python Implementation
 > Part of the [Marketing Analytics Portfolio](../)  
 > **Domain:** Retail / CPG | **Technique:** Econometric Modelling  
-> **Author:** Shashank Paliwal | [LinkedIn](https://linkedin.com/in/shashank-paliwal-ba1ba171) | [Medium Article](#)
+> **Author:** Shashank Paliwal | [LinkedIn](https://linkedin.com/in/shashank-paliwal-ba1ba171) | [Medium Article](https://medium.com/@shashankpaliwal/how-market-mix-modeling-actually-works-a-practitioners-guide-0605d34bdcc5)
 ---
 Business Problem
 A large retailer spends £50m+ annually across 8 media channels — TV, Radio, Out-of-Home, Digital, In-store Displays, Leaflets, Loyalty Campaigns, and Sampling. The marketing team wants to know:
