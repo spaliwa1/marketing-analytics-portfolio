@@ -2,7 +2,7 @@
 > **Author:** Shashank Paliwal | Data Science Manager  
 > **Current Role:** Accenture Strategy & Consulting  
 > **LinkedIn:** [shashank-paliwal-ba1ba171](https://linkedin.com/in/shashank-paliwal-ba1ba171)  
-> **Medium:** [Coming soon]
+> **Medium:** [https://medium.com/@shashankpaliwal/how-market-mix-modeling-actually-works-a-practitioners-guide-0605d34bdcc5]
 ---
 About This Repository
 This portfolio contains end-to-end marketing analytics implementations in Python, built from 11+ years of real-world experience across Retail, CPG, Pharmaceutical, and Manufacturing sectors.
